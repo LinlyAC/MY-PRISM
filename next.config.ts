@@ -5,10 +5,6 @@ const nextConfig: NextConfig = {
   output: 'export',
   trailingSlash: true,
 
-  // 添加这两行
-  basePath: "/MY-PRISM",
-  assetPrefix: "/MY-PRISM",
-
   images: {
     unoptimized: true,
   },
