@@ -1,3 +1,4 @@
 type = "text"
 title = "Services"
+description = "Professional services and community involvement."
 source = "services.md"
